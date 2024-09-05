@@ -1,0 +1,6 @@
+stock_dashboard/
+│
+├── app.py               # Main executable
+├── layout.py            # Layout definition
+├── data_fetcher.py      # Functions to fetch and process stock data
+└── charts.py            # Functions to create charts
